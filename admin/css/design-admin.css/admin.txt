@@ -1,0 +1,23 @@
+/* Admin Dashboard Style */
+
+
+#table-admin {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+  }
+  
+  #table-admin td, #table-admin th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+ 
+  
+  #table-admin th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FB7702;
+    color: white;
+  }
